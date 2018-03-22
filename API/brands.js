@@ -14,5 +14,4 @@ async function printBrands () {
     console.log(err);
   }
 }
-
 printBrands();
