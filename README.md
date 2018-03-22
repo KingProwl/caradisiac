@@ -1,4 +1,4 @@
-<h1 align="center">API FOR YASSINE AZZOUT </h1>
+<h1 align="center">API FOR YASSINE AZZOUT</h1>
 
 
 
@@ -28,6 +28,12 @@ Then,simply go to [localhost:9292](http://localhost:9292/) and you should see th
 <p align="center"> 
 <img src="https://github.com/KingProwl/caradisiac/blob/master/apiscreen.png">
 </p>
+
+Then you have two buttons:
+- POPULATE: which will import datas in elasticsearch (if it is launched). :arrow_up:
+- CARS: which will return the cars models with the highest volume. :red_car:
+
+
 
 # CARADISIAC
 
